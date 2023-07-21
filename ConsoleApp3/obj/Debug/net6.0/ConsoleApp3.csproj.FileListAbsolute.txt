@@ -1,0 +1,45 @@
+C:\Users\Riley Pederson\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+C:\Users\Riley Pederson\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+C:\Users\Riley Pederson\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+C:\Users\Riley Pederson\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+C:\Users\Riley Pederson\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+C:\Users\Riley Pederson\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Riley Pederson\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riley Pederson\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Riley Pederson\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Riley Pederson\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Riley Pederson\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+C:\Users\Riley Pederson\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+C:\Users\Riley Pederson\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+C:\Users\Riley Pederson\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+C:\Users\Riley Pederson\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
+G:\Desktop\Assignment 3 - n10869069\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+G:\Desktop\Assignment 3 - n10869069\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+G:\Desktop\Assignment 3 - n10869069\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+G:\Desktop\Assignment 3 - n10869069\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+G:\Desktop\Assignment 3 - n10869069\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+G:\Desktop\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+G:\Desktop\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Desktop\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+G:\Desktop\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+G:\Desktop\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+G:\Desktop\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+G:\Desktop\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+G:\Desktop\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+G:\Desktop\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+G:\Desktop\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
+G:\Desktop\New folder (4)\Assignment 3 - n10869069\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+G:\Desktop\New folder (4)\Assignment 3 - n10869069\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+G:\Desktop\New folder (4)\Assignment 3 - n10869069\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+G:\Desktop\New folder (4)\Assignment 3 - n10869069\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+G:\Desktop\New folder (4)\Assignment 3 - n10869069\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+G:\Desktop\New folder (4)\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+G:\Desktop\New folder (4)\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Desktop\New folder (4)\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+G:\Desktop\New folder (4)\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+G:\Desktop\New folder (4)\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+G:\Desktop\New folder (4)\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+G:\Desktop\New folder (4)\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+G:\Desktop\New folder (4)\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+G:\Desktop\New folder (4)\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+G:\Desktop\New folder (4)\Assignment 3 - n10869069\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
